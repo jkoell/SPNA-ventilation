@@ -4,8 +4,10 @@ This repository contains code for the manuscript *"Progressive oxygenation of th
 
 ### List of files
 
-* [airsea_flux](airsea_flux.ipynb) - **Computing air-sea fluxes of oxygen.** Fluxes are calculated with the Liang et al. (2013) parameterization, adjusting bubble components by a factor of $\beta$ = 1.5. Includes code for producing Fig. 1a-c, Fig. 2a, and Fig. 4
+* [airsea_flux](airsea_flux.ipynb) - **Computing air-sea fluxes of oxygen.** Fluxes are calculated with the Liang et al. (2013) parameterization, adjusting bubble components by a factor of $\beta$ = 1.5. Includes code for producing Fig. 2a-c, Fig. 3a, and Fig. 6
 
-* [float_oxygen](float_oxygen.ipynb) - **Oxygen along float track following subpolar gyre path.** Code for producing Fig. 3
+* [float_oxygen](float_oxygen.ipynb) - **Oxygen along float track following subpolar gyre path.** Code for producing Fig. 5
 
-* [isopycnal_oxygen](isopycnal_oxygen.ipynb) - **Calculations for oxygen changes in isopycnal layers.** Includes code for producing Fig. 5 and the blue line in Fig. 4b. Code for Fig. 6 to be added later
+* [isopycnal_oxygen](isopycnal_oxygen.ipynb) - **Calculations for oxygen changes in isopycnal layers.** Includes code for producing Fig. 7 and the blue line in Fig. 6b. 
+
+* [ECCO-Darwin code](ECCO_Darwin_O2_mass_budget.m) - **Oxygen budget terms in ECCO-Darwin.** Code for reading in data used to produce Fig. 4
