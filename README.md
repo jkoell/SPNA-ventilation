@@ -12,3 +12,7 @@ This repository contains code for the paper *"Progressive oxygenation of the Nor
 * [float_oxygen](float_oxygen.ipynb) - **Oxygen along float track following subpolar gyre path.** Code for producing Fig. 5 (jupyter notebook)
 
 * [isopycnal_oxygen](isopycnal_oxygen.ipynb) - **Calculations for oxygen changes in isopycnal layers.** Includes code for producing Fig. 7 and the blue line in Fig. 6b (jupyter notebook)
+
+[![DOI](https://zenodo.org/badge/889193073.svg)](https://doi.org/10.5281/zenodo.15214777)
+
+
