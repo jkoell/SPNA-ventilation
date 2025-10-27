@@ -13,6 +13,6 @@ This repository contains code for the paper *"Progressive oxygenation of the Nor
 
 * [isopycnal_oxygen](isopycnal_oxygen.ipynb) - **Calculations for oxygen changes in isopycnal layers.** Includes code for producing Fig. 7 and the blue line in Fig. 6b (jupyter notebook)
 
-[![DOI](https://zenodo.org/badge/889193073.svg)](https://doi.org/10.5281/zenodo.15214777)
+*Code citation*: [![DOI](https://zenodo.org/badge/889193073.svg)](https://doi.org/10.5281/zenodo.15214777)
 
 
