@@ -1,6 +1,10 @@
 # SPNA-ventilation
 
-This repository contains code for the paper *"Progressive oxygenation of the North Atlantic subpolar gyre"* (https://essopenarchive.org/doi/full/10.22541/essoar.172926706.63693481), submitted to JGR: Oceans on Nov 20, 2024, and accepted for publication on October 10, 2025.
+This repository contains code for the paper *"Progressive oxygenation of the North Atlantic subpolar gyre"* published in JGR: Oceans in November 2025. [Click here](https://doi.org/10.1029/2024JC022157) for the final paper.
+
+Also check out [our StoryMap](https://arcg.is/1PXPSH1) for a nice graphical paper summary!
+
+The code is split into several notebooks, listed below.
 
 ### List of files
 
